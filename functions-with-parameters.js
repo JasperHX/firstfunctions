@@ -99,3 +99,4 @@ function createDetailString(firstName, lastName, profession) {
 
 const outcome = createDetailString("Jan", "Janssen", "docent")
 console.log(outcome);
+
